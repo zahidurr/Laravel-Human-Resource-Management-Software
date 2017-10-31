@@ -1,4 +1,4 @@
 Laravel-Human-Resource-Management-Software
-=================
+===============================
 
-This is a Human Resource Management built using Laravel Framework.
+This is a Human Resource Management Software built using Laravel Framework.
